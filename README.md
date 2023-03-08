@@ -1,37 +1,14 @@
-# REST API  Node.js, Mongoose, Jest
-
-Note: This repository includes the [postman collection for the finished API](postman_collection.json)
-
-Note 2: Make sure you add .env to your .gitignore before pushing any changes to your repository. You will also want to generate new public & private keys
-
 #### Generate new keys: https://travistidwell.com/jsencrypt/demo/
 
 #### Base64 encode the keys: https://www.base64encode.org/
 
-
-
-## Common issues
-* I'm getting a JWT malformed error: https://youtu.be/FzKrfwplips
-* Managing environment variables: https://youtu.be/gfyQzeBlLTI
-
-## Who is this tutorial for?
-* Junior to mid-level developers
-* Anyone interested in building REST APIs with TypeScript
 
 ## What you will need
 * A running instance of MongoDB
 * Postman
 * An IDE or text editor (VS Code)
 * A web browser
-* A package manager such as NPM or Yarn
 * Node.js installed
-
-## What next?
-* Testing the API with Jest
-* Build a React.js user interface
-* Add Prometheus metrics to the API
-* Deploy the API with Caddy & Docker
-* Add Google OAuth
 
 ## Concepts
 * REST API principals
@@ -86,17 +63,3 @@ Note 2: Make sure you add .env to your .gitignore before pushing any changes to 
 * docker-compose (container)
 * Caddy - Web server
 * DigitalOcean
-
-Note: You will need Docker installed locally if you want to test your Docker configutation
-
-## Let's keep in touch
-- [Subscribe on YouTube](https://www.youtube.com/TomDoesTech)
-- [Discord](https://discord.gg/4ae2Esm6P7)
-- [Twitter](https://twitter.com/tomdoes_tech)
-- [TikTok](https://www.tiktok.com/@tomdoestech)
-- [Facebook](https://www.facebook.com/tomdoestech)
-- [Instagram](https://www.instagram.com/tomdoestech)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
-
-[Sign up to DigitalOcean 💖](https://m.do.co/c/1b74cb8c56f4)
